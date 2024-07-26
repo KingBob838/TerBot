@@ -1,6 +1,6 @@
 # TerBot
 
-TerBot is a **Shitty** botting tool for [territorial.io](https://territorial.io) which puts a bunch of bots in your game. It's not very efficient because it uses Selenium, which takes up a lot of resources. But it kinda gets the job done.
+TerBot is a **Shitty** botting tool for [territorial.io](https://territorial.io) which puts a bunch of bots in your game. It's not very efficient because it uses Selenium, which takes up a lot of resources. But it kinda gets the job done. At 25 stars, I might try to recode it to communicate with the game's WebSocket server instead of using Selenium windows for each client, which will make it a lot more efficient and allow people to run basically an infinite number of bots.
 
 ## Features
 
@@ -43,11 +43,11 @@ python main.py
 - Python 3.x (if not using the executable)
 - Chrome browser
 
-## Join the discord
+## Join the Discord
 
 Join the Discord for support, updates, and chatting:
 
-[Join TerBot Discord]([https://discord.gg/](https://discord.gg/cQuMEBNB))
+[Join TerBot Discord](https://discord.gg/cQuMEBNB)
 
 ## Website
 
