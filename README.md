@@ -1,3 +1,7 @@
+## For Your Peace of Mind
+
+**TerBot is not malware.** Review the source code if you have concerns. (Or copy the entire main.py code, paste it into chat gpt and ask it if it thinks its a virus.)
+
 # TerBot
 
 TerBot is a **Shitty** botting tool for [territorial.io](https://territorial.io) which puts a bunch of bots in your game. It's not very efficient because it uses Selenium, which takes up a lot of resources. But it kinda gets the job done. At 25 stars, I might try to recode it to communicate with the game's WebSocket server instead of using Selenium windows for each client, which will make it a lot more efficient and allow people to run basically an infinite number of bots.
