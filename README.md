@@ -43,11 +43,11 @@ python main.py
 - Python 3.x (if not using the executable)
 - Chrome browser
 
-## Join Us
+## Join the discord
 
-Join our Discord for support, updates, and chatting:
+Join the Discord for support, updates, and chatting:
 
-[Join TerBot Discord](https://discord.gg/)
+[Join TerBot Discord]([https://discord.gg/](https://discord.gg/cQuMEBNB))
 
 ## Website
 
