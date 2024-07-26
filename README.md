@@ -13,7 +13,7 @@ TerBot is a botting tool for [territorial.io](https://territorial.io). It's not 
 
 If you don't want to mess with Python, you can use the executable
 
-1. Download `main.exe` from [Here]()
+1. Download `main.exe` from [Here](https://github.com/KingBob838/TerBot/releases/download/Windows/main.exe)
 2. Run it like any other program
 
 ## Setup for Python SRC
