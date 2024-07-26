@@ -1,6 +1,6 @@
 # TerBot
 
-TerBot is a botting tool for [territorial.io](https://territorial.io). It's not very efficient because it uses Selenium, which takes up a lot of resources. But it kinda gets the job done.
+TerBot is a **Shitty** botting tool for [territorial.io](https://territorial.io). It's not very efficient because it uses Selenium, which takes up a lot of resources. But it kinda gets the job done.
 
 ## Features
 
